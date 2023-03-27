@@ -1,0 +1,13 @@
+.action-btn {
+  font-family: "Inter";
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 22px;
+  color: #000000;
+  letter-spacing: 0em;
+  text-align: center;
+  padding: 13px 16px;
+  border: 1px solid #d46767;
+  background-color: #f6ecec;
+  cursor: pointer;
+}
